@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/beranda"
+        android:icon="@drawable/ic_beranda"
+        android:title="Beranda"/>
+
+    <item
+        android:id="@+id/peta"
+        android:icon="@drawable/ic_pesanan"
+        android:title="Pesanan"/>
+
+    <item
+        android:id="@+id/informasi"
+        android:icon="@drawable/ic_riwayat"
+        android:title="Riwayat"/>
+
+</menu>
